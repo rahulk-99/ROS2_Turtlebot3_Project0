@@ -1,0 +1,37 @@
+[2.592s] Invoking command in '/home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control': PYTHONPATH=/home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/tb_control build --build-base /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build install --record /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/install.log --single-version-externally-managed install_data
+[2.973s] running egg_info
+[2.974s] creating build/tb_control/tb_control.egg-info
+[2.974s] writing build/tb_control/tb_control.egg-info/PKG-INFO
+[2.975s] writing dependency_links to build/tb_control/tb_control.egg-info/dependency_links.txt
+[2.975s] writing entry points to build/tb_control/tb_control.egg-info/entry_points.txt
+[2.975s] writing requirements to build/tb_control/tb_control.egg-info/requires.txt
+[2.975s] writing top-level names to build/tb_control/tb_control.egg-info/top_level.txt
+[2.975s] writing manifest file 'build/tb_control/tb_control.egg-info/SOURCES.txt'
+[2.978s] reading manifest file 'build/tb_control/tb_control.egg-info/SOURCES.txt'
+[2.979s] writing manifest file 'build/tb_control/tb_control.egg-info/SOURCES.txt'
+[2.979s] running build
+[2.979s] running build_py
+[2.980s] creating /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build
+[2.980s] creating /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build/lib
+[2.980s] creating /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build/lib/tb_control
+[2.980s] copying tb_control/tb_openLoop.py -> /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build/lib/tb_control
+[2.980s] copying tb_control/__init__.py -> /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build/lib/tb_control
+[2.981s] running install
+[2.981s] running install_lib
+[2.982s] creating /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages/tb_control
+[2.983s] copying /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build/lib/tb_control/tb_openLoop.py -> /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages/tb_control
+[2.983s] copying /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build/lib/tb_control/__init__.py -> /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages/tb_control
+[2.984s] byte-compiling /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages/tb_control/tb_openLoop.py to tb_openLoop.cpython-310.pyc
+[2.984s] byte-compiling /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages/tb_control/__init__.py to __init__.cpython-310.pyc
+[2.984s] running install_data
+[2.984s] creating /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/share/ament_index
+[2.985s] creating /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/share/ament_index/resource_index
+[2.985s] creating /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/share/ament_index/resource_index/packages
+[2.985s] copying resource/tb_control -> /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/share/ament_index/resource_index/packages
+[2.985s] copying package.xml -> /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/share/tb_control
+[2.985s] running install_egg_info
+[2.988s] Copying build/tb_control/tb_control.egg-info to /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages/tb_control-0.0.0-py3.10.egg-info
+[2.990s] running install_scripts
+[3.017s] Installing tb_openLoop script to /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/tb_control
+[3.018s] writing list of installed files to '/home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/install.log'
+[3.053s] Invoked command in '/home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control' returned '0': PYTHONPATH=/home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/install/tb_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/tb_control build --build-base /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/build install --record /home/rahul1/Desktop/UMD/Fall 24/Robot Modeling/Projects/Project0/testWS/src/tb_control/build/tb_control/install.log --single-version-externally-managed install_data
